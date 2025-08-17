@@ -1,0 +1,17 @@
+# Node / React
+node_modules/
+dist/
+build/
+
+# Spring Boot
+target/
+*.class
+*.jar
+*.war
+
+# OS / IDE junk
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
