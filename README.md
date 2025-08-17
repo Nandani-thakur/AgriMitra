@@ -1,5 +1,4 @@
-https://github.com/Nandani-thakur/AgriMitra/issues/1#issue-3328553692
-
+[<img](url)[/+][-] <img[/-] width="1861" height="826" alt="Image" src="https://github.com/user-attachments/assets/8fd7e5ef-0cae-49fb-98e4-ed090233b37e" />
 
 
 # AgriMitra
