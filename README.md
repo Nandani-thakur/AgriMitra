@@ -62,3 +62,25 @@ This dual-role system ensures flexibility — any user can act as both a farmer 
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate" /> </p>
 🔧 Tools & Others
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse" /> </p>
+
+
+⚡ How to Run
+1️⃣ Clone the Repository
+git clone https://github.com/Nandani-thakur/AgriMitra.git
+cd AgriMitra
+
+2️⃣ Backend (Spring Boot) Setup
+cd backend
+Update your database credentials inside application.properties
+Run the Spring Boot app: ./mvnw spring-boot:run
+(or directly run the main class in Eclipse
+Backend will start on 👉 http://localhost:9090
+
+3️⃣ Frontend (React vite) Setup
+cd frontend
+npm install
+npm run dev
+Frontend will start on 👉 http://localhost:5173
+
+
+
